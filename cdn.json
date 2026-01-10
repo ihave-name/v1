@@ -1,5 +1,5 @@
 {
-  "css": "https://cdn.jsdelivr.net/gh/ihave-name/v1@r1.0/style.css?v=20260110-8323",
-  "bundle": "https://cdn.jsdelivr.net/gh/ihave-name/v1@r1.0/script.js?v=20260110-8323",
+  "css": "https://cdn.jsdelivr.net/gh/ihave-name/v1@r1.0/style.css?v=20260110-4223",
+  "bundle": "https://cdn.jsdelivr.net/gh/ihave-name/v1@r1.0/script.js?v=20260110-4223",
   "defer": true
 }
